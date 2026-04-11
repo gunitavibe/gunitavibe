@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gunita Goyal</h1>
-<h3 align="center">BTech CSE Student | Backend Developer | Aspiring AI Developer</h3>
+<h3 align="center">Backend Developer | Building AI-Powered Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Building+APIs+with+FastAPI;Learning+AI+%26+ML;DSA+Practitioner+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Backend+Engineer+in+Progress;FastAPI+%7C+APIs+%7C+System+Design;Building+AI+Agents+%26+LLM+Systems;DSA+Practitioner+🚀">
 </p>
 
 ---
@@ -10,11 +10,18 @@
 ## 🚀 About Me  
 
 - 🎓 BTech Computer Science Student  
-- ⚙️ Focused on Backend Development & API Design  
-- 🔧 Built an intent-based query API using FastAPI  
-- 🧠 Solved 138+ LeetCode problems  
-- 🤖 Currently learning AI, ML & LLM integration  
-- 💼 Actively looking for internship opportunities  
+- ⚙️ Focused on Backend Development & Scalable APIs  
+- 🧠 Solved 130+ LeetCode problems  
+- 🤖 Currently building AI-powered backend systems  
+- 💼 Open to Backend / AI Internship Roles  
+
+---
+
+## 🔥 What I'm Building Now  
+
+- 🤖 AI Task Agent (LLM + Tool Execution + Memory)  
+- ⚡ FastAPI backend with modular architecture  
+- 🧩 API systems designed for real-world scalability  
 
 ---
 
@@ -24,36 +31,40 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-### 🔧 Tools  
+### 🔧 Backend & Tools  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🧠 Concepts  
-- OOPs  
-- Data Structures & Algorithms  
-- API Development & Integration  
-- Basics of AI & Machine Learning  
+## 📌 Featured Projects  
+
+### 🔹 AI Task Agent (In Progress)  
+- Autonomous agent using LLM for decision-making  
+- Tool execution (search, calculator, APIs)  
+- Memory handling using JSON/DB  
+- Built with FastAPI for scalability  
 
 ---
-
-## 📌 Featured Project  
 
 ### 🔹 Smart Query API  
-- Rule-based intent detection and query processing  
-- Chat history storage using JSON  
-- Modular backend structure using FastAPI  
+- Intent-based query processing system  
+- Modular backend using FastAPI  
+- Chat history tracking with structured storage  
 
-👉 https://github.com/gunitavibe/Smart-Query-API 
+👉 https://github.com/gunitavibe/Smart-Query-API  
+
+---
+
+## 📦 Deployment  
+
+- 🚀 Live API: https://ai-assistant-api-od5r.onrender.com/  
+- 📄 API Docs: https://ai-assistant-api-od5r.onrender.com/docs 
 
 ---
 
@@ -70,19 +81,19 @@
 
 ---
 
-## 🏆 Coding Progress  
+## 🧠 Core Concepts  
 
-- 🔹 LeetCode: https://leetcode.com/u/gunita241515/  
-- 🔹 Problems Solved: 138+  
+- Data Structures & Algorithms  
+- API Design & Backend Architecture  
+- LLM Integration & AI Systems  
+- Problem Solving & Optimization  
 
 ---
 
-## 🎯 Current Focus  
+## 🏆 Coding Progress  
 
-- 🚀 Improving backend and API design skills  
-- 🤖 Learning AI & ML fundamentals  
-- 📈 Practicing DSA consistently  
-- 💼 Preparing for internship opportunities  
+- 🔹 LeetCode: https://leetcode.com/u/gunita241515/  
+- 🔹 Solved: 130+ Problems  
 
 ---
 
@@ -99,4 +110,4 @@
 
 ---
 
-<h3 align="center">⚡ Building Real Skills | No Hype</h3>
+<h3 align="center">⚡ Building Real Systems | No Hype</h3>
