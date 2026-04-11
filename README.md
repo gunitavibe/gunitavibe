@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gunita Goyal</h1>
-<h3 align="center">BTech CSE Student | Aspiring AI Developer | Building AI Agents</h3>
+<h3 align="center">BTech CSE Student | Backend Developer | Aspiring AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=AI+Developer+in+Progress;Building+with+APIs+%26+LLMs;Backend+Learner;DSA+Practitioner+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Building+APIs+with+FastAPI;Learning+AI+%26+ML;DSA+Practitioner+🚀">
 </p>
 
 ---
@@ -10,10 +10,11 @@
 ## 🚀 About Me  
 
 - 🎓 BTech Computer Science Student  
-- 🤖 Focused on AI, APIs & LLM-based systems  
+- ⚙️ Focused on Backend Development & API Design  
+- 🔧 Built an intent-based query API using FastAPI  
 - 🧠 Solved 138+ LeetCode problems  
-- ⚙️ Built AI assistant using API & local LLM  
-- 💼 Currently seeking internship opportunities  
+- 🤖 Currently learning AI, ML & LLM integration  
+- 💼 Actively looking for internship opportunities  
 
 ---
 
@@ -28,6 +29,15 @@
 
 ---
 
+### 🔧 Tools  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
 ### 🧠 Concepts  
 - OOPs  
 - Data Structures & Algorithms  
@@ -36,22 +46,14 @@
 
 ---
 
-### 🔧 Tools  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
----
-
 ## 📌 Featured Project  
 
-### 🔹 AI Assistant API  
-- Built backend API using OpenAI  
-- Implemented chat history & error handling  
-- Designed structured request-response system  
+### 🔹 Smart Query API  
+- Rule-based intent detection and query processing  
+- Chat history storage using JSON  
+- Modular backend structure using FastAPI  
 
-👉 https://github.com/gunitavibe/ai-assistant-api  
+👉 https://github.com/gunitavibe/Smart-Query-API 
 
 ---
 
@@ -68,20 +70,19 @@
 
 ---
 
-## 🏆 LeetCode Progress  
+## 🏆 Coding Progress  
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/gunita241515?theme=dark&ext=contest" />
-</p>
+- 🔹 LeetCode: https://leetcode.com/u/gunita241515/  
+- 🔹 Problems Solved: 138+  
 
 ---
 
-## 🎯 2026 Goals  
+## 🎯 Current Focus  
 
-- 🚀 Build 2–3 strong AI/Backend projects  
-- 📈 Solve 250+ LeetCode problems  
-- 🤖 Learn Machine Learning fundamentals  
-- 💼 Secure a good internship  
+- 🚀 Improving backend and API design skills  
+- 🤖 Learning AI & ML fundamentals  
+- 📈 Practicing DSA consistently  
+- 💼 Preparing for internship opportunities  
 
 ---
 
@@ -98,4 +99,4 @@
 
 ---
 
-<h3 align="center">⚡ Building Real Skills | No Shortcuts</h3>
+<h3 align="center">⚡ Building Real Skills | No Hype</h3>
