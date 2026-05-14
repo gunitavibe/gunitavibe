@@ -84,7 +84,7 @@ AI-powered backend application designed for academic query handling and structur
 Python • FastAPI • OpenAI API • REST APIs
 
 🔗 Repository  
-https://github.com/gunitavibe
+https://github.com/gunitavibe/ai-exam-assistant
 
 ---
 
@@ -125,15 +125,6 @@ https://github.com/gunitavibe/Smart-Query-API
 - Contributed to backend planning and API workflow discussions
 - Participated in feature structuring and technical architecture planning
 - Assisted in scalable backend design decisions
-
----
-
-# 🎓 Education
-
-## Central University of Haryana
-
-Bachelor of Technology in Computer Science Engineering  
-2024 – 2028
 
 ---
 
