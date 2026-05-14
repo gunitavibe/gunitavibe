@@ -1,22 +1,23 @@
+```md
 <h1 align="center">Gunita Goyal</h1>
 
 <h3 align="center">
-Backend Developer | Python, FastAPI & AI Systems
+Backend Developer • Python • FastAPI • AI-Powered Applications
 </h3>
 
 <p align="center">
-Building scalable backend systems, APIs, and AI-powered applications with a focus on clean architecture and practical engineering.
+Building scalable backend systems, APIs, and practical AI-driven applications.
 </p>
 
 <p align="center">
   <a href="https://github.com/gunitavibe">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/gunita-goyal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:iamgunita705@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -27,10 +28,10 @@ Building scalable backend systems, APIs, and AI-powered applications with a focu
 # 👩‍💻 About Me
 
 - B.Tech Computer Science student at Central University of Haryana
-- Focused on backend engineering and API development using Python & FastAPI
-- Interested in scalable backend systems, AI integrations, and system design
-- Currently learning production-level backend concepts including Docker, authentication, caching, and deployment
-- Solved 130+ coding problems on LeetCode
+- Focused on backend engineering using Python & FastAPI
+- Interested in scalable APIs, AI integrations, and system design
+- Currently learning Docker, authentication, caching, and deployment
+- Solved 130+ problems on LeetCode
 
 ---
 
@@ -42,12 +43,12 @@ Building scalable backend systems, APIs, and AI-powered applications with a focu
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Backend & Databases
+## Backend & Database
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Tools & Platforms
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,32 +57,27 @@ Building scalable backend systems, APIs, and AI-powered applications with a focu
 
 ---
 
-# 📌 Featured Projects
+# 📌 Projects
 
 ## 🔹 AI Exam Assistant
 
-AI-powered backend application designed for academic query handling and structured response generation.
+AI-powered backend application for academic query handling and structured response generation.
 
-### Key Features
+### Features
+- FastAPI-based REST API
+- OpenAI API integration
+- Modular backend architecture
+- Request validation & error handling
+- Swagger/OpenAPI documentation
 
-- REST API architecture using FastAPI
-- OpenAI API integration for intelligent response generation
-- Structured prompt handling workflow
-- Modular backend organization
-- Swagger/OpenAPI documentation support
-- Request validation and error handling
+### Concepts Used
+- API Design
+- Async Request Handling
+- Prompt Engineering
+- Backend Workflow Optimization
 
-### Engineering Concepts
-
-- API design
-- Modular architecture
-- Async request handling
-- Prompt engineering
-- Backend workflow optimization
-
-### Tech Stack
-
-Python • FastAPI • OpenAI API • REST APIs
+### Stack
+`Python` `FastAPI` `OpenAI API`
 
 🔗 Repository  
 https://github.com/gunitavibe/ai-exam-assistant
@@ -90,54 +86,26 @@ https://github.com/gunitavibe/ai-exam-assistant
 
 ## 🔹 Smart Query API
 
-Backend system built for intelligent query processing and structured data management.
+Backend system for intelligent query processing and structured data management.
 
-### Key Features
+### Features
+- RESTful APIs using FastAPI
+- CRUD operations with MySQL
+- Structured JSON responses
+- Validation & exception handling
+- Clean modular structure
 
-- RESTful API development using FastAPI
-- CRUD operations with MySQL integration
-- JSON-based structured response system
-- API validation and exception handling
-- Organized modular backend structure
+### Concepts Used
+- Database Integration
+- API Validation
+- Layered Backend Design
+- Data Serialization
 
-### Engineering Concepts
-
-- Database integration
-- API validation
-- Layered backend structure
-- Error handling
-- Data serialization
-
-### Tech Stack
-
-Python • FastAPI • MySQL • REST APIs
+### Stack
+`Python` `FastAPI` `MySQL`
 
 🔗 Repository  
 https://github.com/gunitavibe/Smart-Query-API
-
----
-
-# 📈 Experience
-
-## Smart India Hackathon Participant — 2026
-
-- Worked in a collaborative team development environment
-- Contributed to backend planning and API workflow discussions
-- Participated in feature structuring and technical architecture planning
-- Assisted in scalable backend design decisions
-
----
-
-# 🧠 Core Skills
-
-- Backend Development
-- REST API Design
-- FastAPI Development
-- Database Integration
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Prompt Engineering
-- AI API Integration
 
 ---
 
@@ -149,11 +117,11 @@ https://github.com/gunitavibe/Smart-Query-API
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gunitavibe&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunitavibe&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -165,11 +133,11 @@ https://github.com/gunitavibe/Smart-Query-API
 
 # 🌐 Connect With Me
 
-- LinkedIn  
-  https://www.linkedin.com/in/gunita-goyal/
-
 - GitHub  
   https://github.com/gunitavibe
+
+- LinkedIn  
+  https://www.linkedin.com/in/gunita-goyal/
 
 - LeetCode  
   https://leetcode.com/u/gunita241515/
@@ -180,7 +148,6 @@ https://github.com/gunitavibe/Smart-Query-API
 ---
 
 <p align="center">
-  <b>
-  Focused on building scalable backend systems and practical AI-powered applications.
-  </b>
+  <b>Focused on building scalable backend systems and practical AI-powered applications.</b>
 </p>
+```
