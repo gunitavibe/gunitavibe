@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Gunita Goyal</h1>
 
 <h3 align="center">
@@ -6,7 +5,7 @@ Backend Developer • FastAPI • API Systems • AI Integrations
 </h3>
 
 <p align="center">
-Building scalable backend systems, REST APIs, and practical AI-integrated applications using Python and FastAPI.
+Building backend systems, REST APIs, and AI-powered applications using Python and FastAPI.
 </p>
 
 <p align="center">
@@ -31,21 +30,20 @@ Building scalable backend systems, REST APIs, and practical AI-integrated applic
 
 # 👩‍💻 About Me
 
-- B.Tech Computer Science student at Central University of Haryana
-- Focused on backend engineering using Python & FastAPI
-- Interested in scalable APIs, AI integrations, and backend architecture
-- Exploring authentication systems, Dockerized deployment, and async workflows
+- Backend-focused developer working with Python & FastAPI
+- Interested in scalable API systems and AI integrations
+- Exploring authentication systems, Docker, async workflows, and backend architecture
 - Solved 130+ coding problems on LeetCode
 
 ---
 
-# 🚀 Currently Building
+# 🚀 Currently Exploring
 
-- JWT-based authentication systems
-- Dockerized FastAPI applications
-- AI-powered backend workflows
-- Structured REST APIs with clean architecture
-- Backend systems focused on scalability and maintainability
+- JWT authentication & refresh token workflows
+- Dockerized FastAPI deployments
+- Async request handling in FastAPI
+- SQLAlchemy ORM patterns
+- API validation & error handling systems
 
 ---
 
@@ -75,21 +73,15 @@ Building scalable backend systems, REST APIs, and practical AI-integrated applic
 
 ## 🔹 AI Exam Assistant
 
-Backend system that processes academic queries using LLM APIs and structured prompt workflows.
+API-based backend system that processes academic queries using LLM APIs and structured workflows.
 
 ### Features
 - REST APIs built with FastAPI
 - OpenAI API integration
-- Modular backend structure
 - Async request handling
 - Validation & exception handling
 - Swagger/OpenAPI documentation
-
-### Concepts Used
-- API Design
-- Prompt Engineering
-- Backend Workflow Optimization
-- Async Processing
+- Modular backend architecture
 
 ### Stack
 `Python` `FastAPI` `OpenAI API`
@@ -101,7 +93,7 @@ https://github.com/gunitavibe/ai-exam-assistant
 
 ## 🔹 Smart Query API
 
-Backend application for intelligent query processing and structured data management.
+Backend application for structured query processing and database-driven API workflows.
 
 ### Features
 - CRUD APIs using FastAPI
@@ -109,12 +101,6 @@ Backend application for intelligent query processing and structured data managem
 - Structured JSON responses
 - Validation & error handling
 - Layered backend architecture
-
-### Concepts Used
-- Database Design
-- API Validation
-- Data Serialization
-- Modular Backend Development
 
 ### Stack
 `Python` `FastAPI` `MySQL`
@@ -140,14 +126,6 @@ https://github.com/gunitavibe/Smart-Query-API
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunitavibe&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gunitavibe&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunitavibe&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
 # 🌐 Connect With Me
@@ -162,6 +140,5 @@ https://github.com/gunitavibe/Smart-Query-API
 ---
 
 <p align="center">
-  <b>Focused on building scalable backend systems and practical AI-integrated applications.</b>
+  <b>Focused on backend engineering, scalable APIs, and practical AI-powered systems.</b>
 </p>
-```
