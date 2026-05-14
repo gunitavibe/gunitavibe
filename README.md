@@ -1,117 +1,195 @@
-<h1 align="center">Hi 👋, I'm Gunita Goyal</h1>
-<h3 align="center">Backend Developer | Building AI-Powered Systems</h3>
+<h1 align="center">Gunita Goyal</h1>
+
+<h3 align="center">
+Backend Developer | Python, FastAPI & AI Systems
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Backend+Engineer+in+Progress;FastAPI+%7C+APIs+%7C+System+Design;Building+AI+Agents+%26+LLM+Systems;DSA+Practitioner+🚀">
-</p>
-
----
-
-## 🚀 About Me  
-
-- 🎓 BTech Computer Science Student  
-- ⚙️ Focused on Backend Development & Scalable APIs  
-- 🧠 Solved 130+ LeetCode problems  
-- 🤖 Currently building AI-powered backend systems  
-- 💼 Open to Backend / AI Internship Roles  
-
----
-
-## 🔥 What I'm Building Now  
-
-- 🤖 AI Task Agent (LLM + Tool Execution + Memory)  
-- ⚡ FastAPI backend with modular architecture  
-- 🧩 API systems designed for real-world scalability  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🔧 Backend & Tools  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📌 Featured Projects  
-
-### 🔹 AI Task Agent (In Progress)  
-- Autonomous agent using LLM for decision-making  
-- Tool execution (search, calculator, APIs)  
-- Memory handling using JSON/DB  
-- Built with FastAPI for scalability  
-
----
-
-### 🔹 Smart Query API  
-- Intent-based query processing system  
-- Modular backend using FastAPI  
-- Chat history tracking with structured storage  
-
-👉 https://github.com/gunitavibe/Smart-Query-API  
-
----
-
-## 📦 Deployment  
-
-- 🚀 Live API: https://ai-assistant-api-od5r.onrender.com/  
-- 📄 API Docs: https://ai-assistant-api-od5r.onrender.com/docs 
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunitavibe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunitavibe&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+Building scalable backend systems, APIs, and AI-powered applications with a focus on clean architecture and practical engineering.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gunitavibe&theme=tokyonight&hide_border=true&border_radius=12"/>
-</p>
-
----
-
-## 🧠 Core Concepts  
-
-- Data Structures & Algorithms  
-- API Design & Backend Architecture  
-- LLM Integration & AI Systems  
-- Problem Solving & Optimization  
-
----
-
-## 🏆 Coding Progress  
-
-- 🔹 LeetCode: https://leetcode.com/u/gunita241515/  
-- 🔹 Solved: 130+ Problems  
-
----
-
-## 🌐 Connect With Me  
-
- <p align="center">
+  <a href="https://github.com/gunitavibe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/gunita-goyal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/gunita241515/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  
   <a href="mailto:iamgunita705@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
+# 👩‍💻 About Me
+
+- B.Tech Computer Science student at Central University of Haryana
+- Focused on backend engineering and API development using Python & FastAPI
+- Interested in scalable backend systems, AI integrations, and system design
+- Currently learning production-level backend concepts including Docker, authentication, caching, and deployment
+- Solved 130+ coding problems on LeetCode
 
 ---
 
-<h3 align="center">⚡ Building Real Systems | No Hype</h3>
+# 🛠️ Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📌 Featured Projects
+
+## 🔹 AI Exam Assistant
+
+AI-powered backend application designed for academic query handling and structured response generation.
+
+### Key Features
+
+- REST API architecture using FastAPI
+- OpenAI API integration for intelligent response generation
+- Structured prompt handling workflow
+- Modular backend organization
+- Swagger/OpenAPI documentation support
+- Request validation and error handling
+
+### Engineering Concepts
+
+- API design
+- Modular architecture
+- Async request handling
+- Prompt engineering
+- Backend workflow optimization
+
+### Tech Stack
+
+Python • FastAPI • OpenAI API • REST APIs
+
+🔗 Repository  
+https://github.com/gunitavibe
+
+---
+
+## 🔹 Smart Query API
+
+Backend system built for intelligent query processing and structured data management.
+
+### Key Features
+
+- RESTful API development using FastAPI
+- CRUD operations with MySQL integration
+- JSON-based structured response system
+- API validation and exception handling
+- Organized modular backend structure
+
+### Engineering Concepts
+
+- Database integration
+- API validation
+- Layered backend structure
+- Error handling
+- Data serialization
+
+### Tech Stack
+
+Python • FastAPI • MySQL • REST APIs
+
+🔗 Repository  
+https://github.com/gunitavibe/Smart-Query-API
+
+---
+
+# 📈 Experience
+
+## Smart India Hackathon Participant — 2026
+
+- Worked in a collaborative team development environment
+- Contributed to backend planning and API workflow discussions
+- Participated in feature structuring and technical architecture planning
+- Assisted in scalable backend design decisions
+
+---
+
+# 🎓 Education
+
+## Central University of Haryana
+
+Bachelor of Technology in Computer Science Engineering  
+2024 – 2028
+
+---
+
+# 🧠 Core Skills
+
+- Backend Development
+- REST API Design
+- FastAPI Development
+- Database Integration
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Prompt Engineering
+- AI API Integration
+
+---
+
+# 🏆 Achievements
+
+- Solved 130+ coding problems on LeetCode
+- Built backend-focused AI applications using FastAPI
+- Completed NPTEL Certification — *The Joy of Computing Using Python*
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunitavibe&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunitavibe&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gunitavibe&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+- LinkedIn  
+  https://www.linkedin.com/in/gunita-goyal/
+
+- GitHub  
+  https://github.com/gunitavibe
+
+- LeetCode  
+  https://leetcode.com/u/gunita241515/
+
+- Email  
+  iamgunita705@gmail.com
+
+---
+
+<p align="center">
+  <b>
+  Focused on building scalable backend systems and practical AI-powered applications.
+  </b>
+</p>
