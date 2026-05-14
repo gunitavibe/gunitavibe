@@ -1,12 +1,22 @@
-<h1 align="center">Gunita Goyal</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Gunita%20Goyal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20FastAPI%20%7C%20AI%20Integrations&descAlignY=55"/>
+</p>
 
 <h3 align="center">
 Backend Developer • FastAPI • API Systems • AI Integrations
 </h3>
 
 <p align="center">
-Building backend systems, REST APIs, and AI-powered applications using Python and FastAPI.
+Focused on building scalable backend systems, REST APIs, and practical AI-integrated applications using Python.
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Developer;FastAPI+%7C+REST+API+Systems;AI+Integrations+with+Python;Building+Scalable+Backend+Applications"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/gunitavibe">
@@ -28,60 +38,61 @@ Building backend systems, REST APIs, and AI-powered applications using Python an
 
 ---
 
-# 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-- Backend-focused developer working with Python & FastAPI
-- Interested in scalable API systems and AI integrations
-- Exploring authentication systems, Docker, async workflows, and backend architecture
-- Solved 130+ coding problems on LeetCode
-
----
-
-# 🚀 Currently Exploring
-
-- JWT authentication & refresh token workflows
-- Dockerized FastAPI deployments
-- Async request handling in FastAPI
-- SQLAlchemy ORM patterns
-- API validation & error handling systems
+- 🎓 B.Tech Computer Science student at Central University of Haryana  
+- ⚙️ Focused on backend engineering using Python & FastAPI  
+- 🚀 Interested in scalable APIs, AI integrations, and backend architecture  
+- 🐳 Exploring authentication systems, Dockerized deployment, and async workflows  
+- 💡 Solved 130+ coding problems on LeetCode  
 
 ---
 
-# 🛠️ Tech Stack
+<h2 align="center">🎯 Current Focus</h2>
 
-## Languages
+- Backend architecture with FastAPI
+- Authentication & JWT workflows
+- Dockerized deployment
+- AI-integrated API systems
+- Database optimization & async processing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql"/>
-</p>
+---
+<h2 align="center">🛠 Tech Stack</h2>
 
-## Backend & Database
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql"/>
-</p>
+### Languages
+`Python` `C++` `C` `SQL`
 
-## Tools & Platforms
+### Backend Development
+`FastAPI` `REST APIs` `API Development`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vscode"/>
-</p>
+### Databases
+`MySQL` `SQLite`
+
+### DevOps & Tools
+`Docker` `Git` `GitHub` `Linux` `Postman` `VS Code`
+
+### AI & Integrations
+`OpenAI API` `LLM Integrations` `Prompt Engineering`
+
+</div>
 
 ---
 
-# 📌 Featured Projects
+<h2 align="center">📌 Featured Projects</h2>
 
 ## 🔹 AI Exam Assistant
 
-API-based backend system that processes academic queries using LLM APIs and structured workflows.
+Backend system that processes academic queries using LLM APIs and structured prompt workflows.
 
-### Features
+### Highlights
 - REST APIs built with FastAPI
 - OpenAI API integration
 - Async request handling
+- Modular backend structure
 - Validation & exception handling
 - Swagger/OpenAPI documentation
-- Modular backend architecture
 
 ### Stack
 `Python` `FastAPI` `OpenAI API`
@@ -93,9 +104,9 @@ https://github.com/gunitavibe/ai-exam-assistant
 
 ## 🔹 Smart Query API
 
-Backend application for structured query processing and database-driven API workflows.
+Backend application for intelligent query processing and structured data management.
 
-### Features
+### Highlights
 - CRUD APIs using FastAPI
 - MySQL database integration
 - Structured JSON responses
@@ -110,35 +121,36 @@ https://github.com/gunitavibe/Smart-Query-API
 
 ---
 
-# 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
 
-- Solved 130+ coding problems on LeetCode
-- Built backend-focused AI applications using FastAPI
-- Completed NPTEL Certification — *The Joy of Computing Using Python*
+- Solved 130+ coding problems on LeetCode  
+- Built backend-focused AI applications using FastAPI  
+- Completed NPTEL Certification — *The Joy of Computing Using Python*  
 
 ---
 
-# 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunitavibe&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gunitavibe&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunitavibe&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunitavibe&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gunitavibe&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">💭 Developer Mindset</h2>
 
 <p align="center">
-  <a href="https://github.com/gunitavibe">GitHub</a> •
-  <a href="https://www.linkedin.com/in/gunita-goyal/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/gunita241515/">LeetCode</a> •
-  <a href="mailto:iamgunita705@gmail.com">Email</a>
+Focused on writing backend systems that are clean, scalable, and practical.
 </p>
 
 ---
 
 <p align="center">
-  <b>Focused on backend engineering, scalable APIs, and practical AI-powered systems.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=120&section=footer"/>
 </p>
