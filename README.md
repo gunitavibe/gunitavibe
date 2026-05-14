@@ -2,11 +2,11 @@
 <h1 align="center">Gunita Goyal</h1>
 
 <h3 align="center">
-Backend Developer • Python • FastAPI • AI-Powered Applications
+Backend Developer • FastAPI • API Systems • AI Integrations
 </h3>
 
 <p align="center">
-Building scalable backend systems, APIs, and practical AI-driven applications.
+Building scalable backend systems, REST APIs, and practical AI-integrated applications using Python and FastAPI.
 </p>
 
 <p align="center">
@@ -21,6 +21,10 @@ Building scalable backend systems, APIs, and practical AI-driven applications.
   <a href="mailto:iamgunita705@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://leetcode.com/u/gunita241515/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
@@ -29,9 +33,19 @@ Building scalable backend systems, APIs, and practical AI-driven applications.
 
 - B.Tech Computer Science student at Central University of Haryana
 - Focused on backend engineering using Python & FastAPI
-- Interested in scalable APIs, AI integrations, and system design
-- Currently learning Docker, authentication, caching, and deployment
-- Solved 130+ problems on LeetCode
+- Interested in scalable APIs, AI integrations, and backend architecture
+- Exploring authentication systems, Dockerized deployment, and async workflows
+- Solved 130+ coding problems on LeetCode
+
+---
+
+# 🚀 Currently Building
+
+- JWT-based authentication systems
+- Dockerized FastAPI applications
+- AI-powered backend workflows
+- Structured REST APIs with clean architecture
+- Backend systems focused on scalability and maintainability
 
 ---
 
@@ -39,42 +53,43 @@ Building scalable backend systems, APIs, and practical AI-driven applications.
 
 ## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql"/>
+</p>
 
 ## Backend & Database
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql"/>
+</p>
 
-## Tools
+## Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vscode"/>
+</p>
 
 ---
 
-# 📌 Projects
+# 📌 Featured Projects
 
 ## 🔹 AI Exam Assistant
 
-AI-powered backend application for academic query handling and structured response generation.
+Backend system that processes academic queries using LLM APIs and structured prompt workflows.
 
 ### Features
-- FastAPI-based REST API
+- REST APIs built with FastAPI
 - OpenAI API integration
-- Modular backend architecture
-- Request validation & error handling
+- Modular backend structure
+- Async request handling
+- Validation & exception handling
 - Swagger/OpenAPI documentation
 
 ### Concepts Used
 - API Design
-- Async Request Handling
 - Prompt Engineering
 - Backend Workflow Optimization
+- Async Processing
 
 ### Stack
 `Python` `FastAPI` `OpenAI API`
@@ -86,20 +101,20 @@ https://github.com/gunitavibe/ai-exam-assistant
 
 ## 🔹 Smart Query API
 
-Backend system for intelligent query processing and structured data management.
+Backend application for intelligent query processing and structured data management.
 
 ### Features
-- RESTful APIs using FastAPI
-- CRUD operations with MySQL
+- CRUD APIs using FastAPI
+- MySQL database integration
 - Structured JSON responses
-- Validation & exception handling
-- Clean modular structure
+- Validation & error handling
+- Layered backend architecture
 
 ### Concepts Used
-- Database Integration
+- Database Design
 - API Validation
-- Layered Backend Design
 - Data Serialization
+- Modular Backend Development
 
 ### Stack
 `Python` `FastAPI` `MySQL`
@@ -117,7 +132,7 @@ https://github.com/gunitavibe/Smart-Query-API
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gunitavibe&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -129,25 +144,24 @@ https://github.com/gunitavibe/Smart-Query-API
   <img src="https://streak-stats.demolab.com?user=gunitavibe&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunitavibe&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 # 🌐 Connect With Me
 
-- GitHub  
-  https://github.com/gunitavibe
-
-- LinkedIn  
-  https://www.linkedin.com/in/gunita-goyal/
-
-- LeetCode  
-  https://leetcode.com/u/gunita241515/
-
-- Email  
-  iamgunita705@gmail.com
+<p align="center">
+  <a href="https://github.com/gunitavibe">GitHub</a> •
+  <a href="https://www.linkedin.com/in/gunita-goyal/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/gunita241515/">LeetCode</a> •
+  <a href="mailto:iamgunita705@gmail.com">Email</a>
+</p>
 
 ---
 
 <p align="center">
-  <b>Focused on building scalable backend systems and practical AI-powered applications.</b>
+  <b>Focused on building scalable backend systems and practical AI-integrated applications.</b>
 </p>
 ```
